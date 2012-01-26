@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.761,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.916,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\OpenFirmware.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\AddonFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\FinishFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\CompileFirmware.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\HelpUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,C:\Users\KOJAN\Documents\MyProjects\MFB\MainUnit.dfm=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\KOJAN\Documents\MyProjects\MFB\CryModule.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipCrypt.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.593,C:\Users\KOJAN\Documents\MyProjects\MFB\CryModule.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,C:\Users\KOJAN\Documents\MyProjects\MFB\GitHubChooiser.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,C:\Users\KOJAN\Documents\MyProjects\MFB\GitHubChooiser.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\KOJAN\Documents\MyProjects\MFB\StartFrame.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipStream.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\OpenFirmware.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipWriter.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipReader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,C:\Users\KOJAN\Documents\MyProjects\MFB\MFB.dproj=C:\Users\KOJAN\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipConsts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,C:\Users\KOJAN\Documents\MyProjects\MFB\MainUnit.pas=C:\Users\KOJAN\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,=C:\Users\KOJAN\Documents\MyProjects\MFB\fwzip\FWZipCrc32.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\AddonFrame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\FinishFrame.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\CompileFirmware.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,C:\Users\KOJAN\Documents\MyProjects\MFB\StartFrame.pas=C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,C:\Users\KOJAN\Documents\MyProjects\MFB\Unit1.dfm=C:\Users\KOJAN\Documents\MyProjects\MFB\HelpUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
